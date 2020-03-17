@@ -6,6 +6,8 @@ Full project requirements can be found in specifications.pdf
 
 ## Contributors
 
-Zuan Liang
-Mike Singh
+Zuan Liang 
+
+Mike Singh 
+
 Prasanth Venigalla
